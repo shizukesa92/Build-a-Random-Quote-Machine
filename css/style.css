@@ -1,0 +1,70 @@
+.quote-box {
+  margin: 8% auto auto auto;
+  background-color: white;
+  width: 40%;
+  height: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  }
+
+footer {
+  display: table;
+  color: white;
+  margin: 15px auto;
+}
+
+.fa-twitter, .fa-tumblr {
+  float: left;
+  height: 38px;
+  width: 35px;
+  margin-right: 5px;
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  font-size: 2em;
+  cursor:pointer;
+  border-radius: 5px;
+  color:#fff;
+  background-color:#333;
+}
+
+.btn {
+  float: right;
+  height: 40px;
+  margin-right: 5px;
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  cursor:pointer;
+  border-radius: 5px;
+  border-color: #fff;
+}
+
+.btn:hover, .fa:hover{
+  opacity:0.9;
+  border-color: #fff;
+}
+
+.buttons, .quote {
+  width: 650px;
+  margin: 10px auto;
+}
+
+.fa-quote-left, .dash {
+  margin-right: 5px;
+}
+
+.quote-author {
+  float: right;
+}
+
+.quote-text {
+  text-align: center;
+  font-size:1.5em; 
+  color: black;
+}
+
+footer{
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+
